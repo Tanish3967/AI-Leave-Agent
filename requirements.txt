@@ -1,0 +1,6 @@
+# Web Framework
+streamlit
+flask
+
+# AI & LLM Dependencies
+requests
